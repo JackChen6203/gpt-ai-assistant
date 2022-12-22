@@ -1,7 +1,6 @@
 # Changelog
 
 ## 1.5.0 (2022-12-22)
-A
 ### New Features
 
 - Implement `continue` command with quick reply feature
